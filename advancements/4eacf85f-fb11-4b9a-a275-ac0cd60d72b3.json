@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-09-09 16:17:42 +0100"
+    },
+    "done": true
+  },
   "cfm:minekea": {
     "criteria": {
       "get_chair_or_table": "2025-07-08 07:37:31 +0100"
